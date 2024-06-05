@@ -1,1 +1,1 @@
-Project: Create a NFT Collection
+JS PROOF: Beginner Course Project: Create a NFT Collection
