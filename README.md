@@ -7,6 +7,14 @@ This code provides a straightforward and effective way to create, store, and dis
 - Mint NFTs: Create new NFTs with specific metadata.
 - List NFTs: Display the metadata of all minted NFTs.
 - Total Supply: Get the total number of NFTs created.
+- 
+## Authors
+
+Contributors names and contact info
+
+- Clint Audrey Dela Cruz
+- Github: SecreShall
+
 
 ## Acknowledgements
 This project is a simple educational example to demonstrate basic NFT management using JavaScript. It can be expanded and modified for more complex NFT systems.
